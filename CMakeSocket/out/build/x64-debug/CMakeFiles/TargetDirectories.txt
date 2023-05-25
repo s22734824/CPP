@@ -1,0 +1,5 @@
+C:/Users/peter/source/repos/CMakeSocket/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/source/repos/CMakeSocket/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/peter/source/repos/CMakeSocket/out/build/x64-debug/CMakeSocket/CMakeFiles/CMakeSocket.dir
+C:/Users/peter/source/repos/CMakeSocket/out/build/x64-debug/CMakeSocket/CMakeFiles/edit_cache.dir
+C:/Users/peter/source/repos/CMakeSocket/out/build/x64-debug/CMakeSocket/CMakeFiles/rebuild_cache.dir
